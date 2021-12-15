@@ -7,7 +7,4 @@ module.exports = {
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
   ],
-  flags: {
-    LMDB_STORE: true
-  }
 };

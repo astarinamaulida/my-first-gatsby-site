@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "gatsby": "^4.3.0",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
     "gatsby-plugin-image": "^2.4.0",
@@ -23,6 +24,11 @@
     "gatsby-source-filesystem": "^4.4.0",
     "lmdb-store": "^1.6.14",
 >>>>>>> Stashed changes
+=======
+    "gatsby-plugin-image": "^2.4.0",
+    "gatsby-plugin-sharp": "^4.4.0",
+    "gatsby-source-filesystem": "^4.4.0",
+>>>>>>> 04_add_plugins
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
