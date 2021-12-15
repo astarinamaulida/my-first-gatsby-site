@@ -3,5 +3,11 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "My Gatsby Site",
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+  ],
+  flags: {
+    LMDB_STORE: true
+  }
 };
